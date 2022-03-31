@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "first_name": "AHMED",
+      "last_name": "KHALED",
+      "gender": "d",
+      "id": 18,
+      "email": "ahmedkhaled199821@yahoo.com"
+    },
+    {
+      "id": 19,
+      "first_name": "Rafaello",
+      "last_name": "Zorzin",
+      "email": "rzorzini@github.com",
+      "gender": "Male"
+    },
+    {
+      "id": 20,
+      "first_name": "Morley",
+      "last_name": "Dunbleton",
+      "email": "mdunbletonj@gmpg.org",
+      "gender": "f"
+    },
+    {
+      "gender": "f",
+      "id": 21,
+      "first_name": "sara",
+      "last_name": "KHALED",
+      "email": "sara123@yahoo.com"
+    },
+    {
+      "first_name": "AHMED",
+      "last_name": "KHALED",
+      "email": "ahmedkhaled199821@yahoo.com",
+      "gender": "xx",
+      "id": 22
+    },
+    {
+      "first_name": "AHMED",
+      "last_name": "KHALED",
+      "email": "ahmedkhaled199821@yahoo.com",
+      "gender": "zzz",
+      "id": 23
+    }
+  ]
+}
